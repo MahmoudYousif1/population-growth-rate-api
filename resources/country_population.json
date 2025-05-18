@@ -4,8 +4,8 @@
     "ISO3": "AFG",
     "Year": 1960,
     "Population": 8996973,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -535,8 +535,8 @@
     "ISO3": "ALB",
     "Year": 1960,
     "Population": 1608800,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -635,7 +635,7 @@
     "Year": 1971,
     "Population": 2187853,
     "Population Growth": 52374,
-    "Growth Rate (%)": 2.4525645066048414,
+    "Growth Rate (%)": 2.452564506604842,
     "Decade": "1970s"
   },
   {
@@ -662,7 +662,7 @@
     "Year": 1974,
     "Population": 2350124,
     "Population Growth": 53372,
-    "Growth Rate (%)": 2.3238033536054394,
+    "Growth Rate (%)": 2.323803353605439,
     "Decade": "1970s"
   },
   {
@@ -1066,8 +1066,8 @@
     "ISO3": "DZA",
     "Year": 1960,
     "Population": 11057863,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -1076,7 +1076,7 @@
     "Year": 1961,
     "Population": 11336339,
     "Population Growth": 278476,
-    "Growth Rate (%)": 2.5183527775665158,
+    "Growth Rate (%)": 2.518352777566516,
     "Decade": "1960s"
   },
   {
@@ -1319,7 +1319,7 @@
     "Year": 1988,
     "Population": 24443467,
     "Population Growth": 669183,
-    "Growth Rate (%)": 2.8147346098835198,
+    "Growth Rate (%)": 2.81473460988352,
     "Decade": "1980s"
   },
   {
@@ -1597,8 +1597,8 @@
     "ISO3": "ASM",
     "Year": 1960,
     "Population": 20123,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -1616,7 +1616,7 @@
     "Year": 1962,
     "Population": 21253,
     "Population Growth": 651,
-    "Growth Rate (%)": 3.1598873895738278,
+    "Growth Rate (%)": 3.159887389573828,
     "Decade": "1960s"
   },
   {
@@ -2128,8 +2128,8 @@
     "ISO3": "AND",
     "Year": 1960,
     "Population": 13411,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -2659,8 +2659,8 @@
     "ISO3": "AGO",
     "Year": 1960,
     "Population": 5454933,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -3190,8 +3190,8 @@
     "ISO3": "ATG",
     "Year": 1960,
     "Population": 54131,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -3416,7 +3416,7 @@
     "Year": 1985,
     "Population": 61786,
     "Population Growth": 0,
-    "Growth Rate (%)": 0,
+    "Growth Rate (%)": 0.0,
     "Decade": "1980s"
   },
   {
@@ -3721,8 +3721,8 @@
     "ISO3": "ARB",
     "Year": 1960,
     "Population": 92197753,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -4136,7 +4136,7 @@
     "Year": 2006,
     "Population": 322452754,
     "Population Growth": 7486961,
-    "Growth Rate (%)": 2.3770711507074678,
+    "Growth Rate (%)": 2.377071150707468,
     "Decade": "2000s"
   },
   {
@@ -4154,7 +4154,7 @@
     "Year": 2008,
     "Population": 338395961,
     "Population Growth": 8105245,
-    "Growth Rate (%)": 2.4539730023776998,
+    "Growth Rate (%)": 2.4539730023777,
     "Decade": "2000s"
   },
   {
@@ -4252,8 +4252,8 @@
     "ISO3": "ARG",
     "Year": 1960,
     "Population": 20481779,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -4783,8 +4783,8 @@
     "ISO3": "ARM",
     "Year": 1960,
     "Population": 1874121,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -4856,7 +4856,7 @@
     "Year": 1968,
     "Population": 2401143,
     "Population Growth": 62016,
-    "Growth Rate (%)": 2.6512455287806094,
+    "Growth Rate (%)": 2.65124552878061,
     "Decade": "1960s"
   },
   {
@@ -5314,8 +5314,8 @@
     "ISO3": "ABW",
     "Year": 1960,
     "Population": 54211,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -5845,8 +5845,8 @@
     "ISO3": "AUS",
     "Year": 1960,
     "Population": 10276477,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -6376,8 +6376,8 @@
     "ISO3": "AUT",
     "Year": 1960,
     "Population": 7047539,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -6907,8 +6907,8 @@
     "ISO3": "AZE",
     "Year": 1960,
     "Population": 3895397,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -7438,8 +7438,8 @@
     "ISO3": "BHS",
     "Year": 1960,
     "Population": 109534,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -7969,8 +7969,8 @@
     "ISO3": "BHR",
     "Year": 1960,
     "Population": 162427,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -8024,7 +8024,7 @@
     "Year": 1966,
     "Population": 191780,
     "Population Growth": 4349,
-    "Growth Rate (%)": 2.3203205446270894,
+    "Growth Rate (%)": 2.32032054462709,
     "Decade": "1960s"
   },
   {
@@ -8500,8 +8500,8 @@
     "ISO3": "BGD",
     "Year": 1960,
     "Population": 48013504,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -9031,8 +9031,8 @@
     "ISO3": "BRB",
     "Year": 1960,
     "Population": 230980,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -9562,8 +9562,8 @@
     "ISO3": "BLR",
     "Year": 1960,
     "Population": 8198000,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -10093,8 +10093,8 @@
     "ISO3": "BEL",
     "Year": 1960,
     "Population": 9153489,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -10624,8 +10624,8 @@
     "ISO3": "BLZ",
     "Year": 1960,
     "Population": 92064,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -11155,8 +11155,8 @@
     "ISO3": "BEN",
     "Year": 1960,
     "Population": 2431622,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -11686,8 +11686,8 @@
     "ISO3": "BMU",
     "Year": 1960,
     "Population": 44400,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -12217,8 +12217,8 @@
     "ISO3": "BTN",
     "Year": 1960,
     "Population": 223288,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -12748,8 +12748,8 @@
     "ISO3": "BOL",
     "Year": 1960,
     "Population": 3656955,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -12992,7 +12992,7 @@
     "Year": 1987,
     "Population": 6442831,
     "Population Growth": 133701,
-    "Growth Rate (%)": 2.1191669849884214,
+    "Growth Rate (%)": 2.119166984988422,
     "Decade": "1980s"
   },
   {
@@ -13279,8 +13279,8 @@
     "ISO3": "BIH",
     "Year": 1960,
     "Population": 3225668,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -13810,8 +13810,8 @@
     "ISO3": "BWA",
     "Year": 1960,
     "Population": 502745,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -14341,8 +14341,8 @@
     "ISO3": "BRA",
     "Year": 1960,
     "Population": 72179226,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -14872,8 +14872,8 @@
     "ISO3": "VGB",
     "Year": 1960,
     "Population": 8048,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -15403,8 +15403,8 @@
     "ISO3": "BRN",
     "Year": 1960,
     "Population": 81702,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -15934,8 +15934,8 @@
     "ISO3": "BGR",
     "Year": 1960,
     "Population": 7867374,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -16465,8 +16465,8 @@
     "ISO3": "BFA",
     "Year": 1960,
     "Population": 4829288,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -16709,7 +16709,7 @@
     "Year": 1987,
     "Population": 8140073,
     "Population Growth": 209379,
-    "Growth Rate (%)": 2.6401094280021398,
+    "Growth Rate (%)": 2.64010942800214,
     "Decade": "1980s"
   },
   {
@@ -16996,8 +16996,8 @@
     "ISO3": "BDI",
     "Year": 1960,
     "Population": 2797932,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -17527,8 +17527,8 @@
     "ISO3": "CPV",
     "Year": 1960,
     "Population": 201765,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -18058,8 +18058,8 @@
     "ISO3": "KHM",
     "Year": 1960,
     "Population": 5722370,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -18589,8 +18589,8 @@
     "ISO3": "CMR",
     "Year": 1960,
     "Population": 5176918,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -18824,7 +18824,7 @@
     "Year": 1986,
     "Population": 10395480,
     "Population Growth": 324674,
-    "Growth Rate (%)": 3.2239127632882614,
+    "Growth Rate (%)": 3.223912763288262,
     "Decade": "1980s"
   },
   {
@@ -19120,8 +19120,8 @@
     "ISO3": "CAN",
     "Year": 1960,
     "Population": 17909009,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -19651,8 +19651,8 @@
     "ISO3": "CSS",
     "Year": 1960,
     "Population": 4194710,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -20182,8 +20182,8 @@
     "ISO3": "CYM",
     "Year": 1960,
     "Population": 7865,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -20713,8 +20713,8 @@
     "ISO3": "CAF",
     "Year": 1960,
     "Population": 1501668,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -21244,8 +21244,8 @@
     "ISO3": "CEB",
     "Year": 1960,
     "Population": 91401764,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -21775,8 +21775,8 @@
     "ISO3": "TCD",
     "Year": 1960,
     "Population": 3001609,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -22235,7 +22235,7 @@
     "Year": 2011,
     "Population": 12360989,
     "Population Growth": 408853,
-    "Growth Rate (%)": 3.4207525751045678,
+    "Growth Rate (%)": 3.420752575104568,
     "Decade": "2010s"
   },
   {
@@ -22306,8 +22306,8 @@
     "ISO3": "CHI",
     "Year": 1960,
     "Population": 109420,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -22837,8 +22837,8 @@
     "ISO3": "CHL",
     "Year": 1960,
     "Population": 8132990,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -23368,8 +23368,8 @@
     "ISO3": "CHN",
     "Year": 1960,
     "Population": 667070000,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -23899,8 +23899,8 @@
     "ISO3": "COL",
     "Year": 1960,
     "Population": 16057724,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -24430,8 +24430,8 @@
     "ISO3": "COM",
     "Year": 1960,
     "Population": 191121,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -24782,7 +24782,7 @@
     "Year": 1999,
     "Population": 528848,
     "Population Growth": 13463,
-    "Growth Rate (%)": 2.6122219311776638,
+    "Growth Rate (%)": 2.612221931177664,
     "Decade": "1990s"
   },
   {
@@ -24961,8 +24961,8 @@
     "ISO3": "COD",
     "Year": 1960,
     "Population": 15248251,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -25492,8 +25492,8 @@
     "ISO3": "COG",
     "Year": 1960,
     "Population": 1018253,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -25709,7 +25709,7 @@
     "Year": 1984,
     "Population": 1996995,
     "Population Growth": 56552,
-    "Growth Rate (%)": 2.9143860448361534,
+    "Growth Rate (%)": 2.914386044836154,
     "Decade": "1980s"
   },
   {
@@ -25970,7 +25970,7 @@
     "Year": 2013,
     "Population": 4622761,
     "Population Growth": 112563,
-    "Growth Rate (%)": 2.4957440892838854,
+    "Growth Rate (%)": 2.495744089283886,
     "Decade": "2010s"
   },
   {
@@ -26023,8 +26023,8 @@
     "ISO3": "CRI",
     "Year": 1960,
     "Population": 1330782,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -26554,8 +26554,8 @@
     "ISO3": "CIV",
     "Year": 1960,
     "Population": 3503553,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -27014,7 +27014,7 @@
     "Year": 2011,
     "Population": 21028655,
     "Population Growth": 495705,
-    "Growth Rate (%)": 2.4141927974304718,
+    "Growth Rate (%)": 2.414192797430472,
     "Decade": "2010s"
   },
   {
@@ -27085,8 +27085,8 @@
     "ISO3": "HRV",
     "Year": 1960,
     "Population": 4140181,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -27616,8 +27616,8 @@
     "ISO3": "CUB",
     "Year": 1960,
     "Population": 7141250,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -28147,8 +28147,8 @@
     "ISO3": "CUW",
     "Year": 1960,
     "Population": 124826,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -28678,8 +28678,8 @@
     "ISO3": "CYP",
     "Year": 1960,
     "Population": 572930,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -29209,8 +29209,8 @@
     "ISO3": "CZE",
     "Year": 1960,
     "Population": 9602006,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -29740,8 +29740,8 @@
     "ISO3": "DNK",
     "Year": 1960,
     "Population": 4579603,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -30271,8 +30271,8 @@
     "ISO3": "DJI",
     "Year": 1960,
     "Population": 83636,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -30802,8 +30802,8 @@
     "ISO3": "DMA",
     "Year": 1960,
     "Population": 60011,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -31333,8 +31333,8 @@
     "ISO3": "DOM",
     "Year": 1960,
     "Population": 3294224,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -31864,8 +31864,8 @@
     "ISO3": "EAR",
     "Year": 1960,
     "Population": 980085256,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -32395,8 +32395,8 @@
     "ISO3": "EAS",
     "Year": 1960,
     "Population": 1040958103,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -32926,8 +32926,8 @@
     "ISO3": "TEA",
     "Year": 1960,
     "Population": 883445573,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -33026,7 +33026,7 @@
     "Year": 1971,
     "Population": 1133088651,
     "Population Growth": 30345085,
-    "Growth Rate (%)": 2.7517807344885474,
+    "Growth Rate (%)": 2.751780734488547,
     "Decade": "1970s"
   },
   {
@@ -33457,8 +33457,8 @@
     "ISO3": "EAP",
     "Year": 1960,
     "Population": 894880101,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -33988,8 +33988,8 @@
     "ISO3": "ECU",
     "Year": 1960,
     "Population": 4543666,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -34007,7 +34007,7 @@
     "Year": 1962,
     "Population": 4809201,
     "Population Growth": 135029,
-    "Growth Rate (%)": 2.8888325033824174,
+    "Growth Rate (%)": 2.888832503382418,
     "Decade": "1960s"
   },
   {
@@ -34519,8 +34519,8 @@
     "ISO3": "EGY",
     "Year": 1960,
     "Population": 26632894,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -34529,7 +34529,7 @@
     "Year": 1961,
     "Population": 27366237,
     "Population Growth": 733343,
-    "Growth Rate (%)": 2.7535235186983438,
+    "Growth Rate (%)": 2.753523518698344,
     "Decade": "1960s"
   },
   {
@@ -34736,7 +34736,7 @@
     "Year": 1984,
     "Population": 47968642,
     "Population Growth": 1240356,
-    "Growth Rate (%)": 2.6544008055420654,
+    "Growth Rate (%)": 2.654400805542066,
     "Decade": "1980s"
   },
   {
@@ -34781,7 +34781,7 @@
     "Year": 1989,
     "Population": 54788685,
     "Population Growth": 1389439,
-    "Growth Rate (%)": 2.6019824324860314,
+    "Growth Rate (%)": 2.601982432486031,
     "Decade": "1980s"
   },
   {
@@ -35050,8 +35050,8 @@
     "ISO3": "SLV",
     "Year": 1960,
     "Population": 2766324,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -35078,7 +35078,7 @@
     "Year": 1963,
     "Population": 3019224,
     "Population Growth": 88032,
-    "Growth Rate (%)": 3.0032833059042194,
+    "Growth Rate (%)": 3.003283305904219,
     "Decade": "1960s"
   },
   {
@@ -35581,8 +35581,8 @@
     "ISO3": "GNQ",
     "Year": 1960,
     "Population": 255333,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -36112,8 +36112,8 @@
     "ISO3": "ERI",
     "Year": 1960,
     "Population": 1007590,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -36212,7 +36212,7 @@
     "Year": 1971,
     "Population": 1347176,
     "Population Growth": 36231,
-    "Growth Rate (%)": 2.7637315066612254,
+    "Growth Rate (%)": 2.763731506661226,
     "Decade": "1970s"
   },
   {
@@ -36580,8 +36580,8 @@
     "ISO3": "EST",
     "Year": 1960,
     "Population": 1211537,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -37111,8 +37111,8 @@
     "ISO3": "SWZ",
     "Year": 1960,
     "Population": 336583,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -37642,8 +37642,8 @@
     "ISO3": "ETH",
     "Year": 1960,
     "Population": 22151278,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -37688,7 +37688,7 @@
     "Year": 1965,
     "Population": 25013626,
     "Population Growth": 616604,
-    "Growth Rate (%)": 2.5273740377001754,
+    "Growth Rate (%)": 2.527374037700175,
     "Decade": "1960s"
   },
   {
@@ -38173,8 +38173,8 @@
     "ISO3": "EMU",
     "Year": 1960,
     "Population": 265203934,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -38704,8 +38704,8 @@
     "ISO3": "ECS",
     "Year": 1960,
     "Population": 667253650,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -39235,8 +39235,8 @@
     "ISO3": "TEC",
     "Year": 1960,
     "Population": 308925209,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -39766,8 +39766,8 @@
     "ISO3": "ECA",
     "Year": 1960,
     "Population": 275147578,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -40297,8 +40297,8 @@
     "ISO3": "EUU",
     "Year": 1960,
     "Population": 356906076,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -40828,8 +40828,8 @@
     "ISO3": "FRO",
     "Year": 1960,
     "Population": 34615,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -41359,8 +41359,8 @@
     "ISO3": "FJI",
     "Year": 1960,
     "Population": 393481,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -41477,7 +41477,7 @@
     "Year": 1973,
     "Population": 554138,
     "Population Growth": 11294,
-    "Growth Rate (%)": 2.0805240547929054,
+    "Growth Rate (%)": 2.080524054792906,
     "Decade": "1970s"
   },
   {
@@ -41890,8 +41890,8 @@
     "ISO3": "FIN",
     "Year": 1960,
     "Population": 4429634,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -42421,8 +42421,8 @@
     "ISO3": "FCS",
     "Year": 1960,
     "Population": 174658134,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -42503,7 +42503,7 @@
     "Year": 1969,
     "Population": 216287242,
     "Population Growth": 5318433,
-    "Growth Rate (%)": 2.5209570197649454,
+    "Growth Rate (%)": 2.520957019764946,
     "Decade": "1960s"
   },
   {
@@ -42872,7 +42872,7 @@
     "Year": 2010,
     "Population": 618029522,
     "Population Growth": 14945267,
-    "Growth Rate (%)": 2.4781391449193118,
+    "Growth Rate (%)": 2.478139144919312,
     "Decade": "2010s"
   },
   {
@@ -42952,8 +42952,8 @@
     "ISO3": "FRA",
     "Year": 1960,
     "Population": 46621669,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -43483,8 +43483,8 @@
     "ISO3": "PYF",
     "Year": 1960,
     "Population": 78076,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -44014,8 +44014,8 @@
     "ISO3": "GAB",
     "Year": 1960,
     "Population": 500928,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -44159,7 +44159,7 @@
     "Year": 1976,
     "Population": 661402,
     "Population Growth": 13866,
-    "Growth Rate (%)": 2.1413481258184874,
+    "Growth Rate (%)": 2.141348125818487,
     "Decade": "1970s"
   },
   {
@@ -44545,8 +44545,8 @@
     "ISO3": "GMB",
     "Year": 1960,
     "Population": 365047,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -45076,8 +45076,8 @@
     "ISO3": "GEO",
     "Year": 1960,
     "Population": 3645600,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -45607,8 +45607,8 @@
     "ISO3": "DEU",
     "Year": 1960,
     "Population": 72814900,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -46138,8 +46138,8 @@
     "ISO3": "GHA",
     "Year": 1960,
     "Population": 6635230,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -46400,7 +46400,7 @@
     "Year": 1989,
     "Population": 14353410,
     "Population Growth": 406368,
-    "Growth Rate (%)": 2.9136500771991654,
+    "Growth Rate (%)": 2.913650077199166,
     "Decade": "1980s"
   },
   {
@@ -46669,8 +46669,8 @@
     "ISO3": "GIB",
     "Year": 1960,
     "Population": 23420,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -47200,8 +47200,8 @@
     "ISO3": "GRC",
     "Year": 1960,
     "Population": 8331725,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -47731,8 +47731,8 @@
     "ISO3": "GRL",
     "Year": 1960,
     "Population": 32500,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -47759,7 +47759,7 @@
     "Year": 1963,
     "Population": 36400,
     "Population Growth": 1400,
-    "Growth Rate (%)": 4,
+    "Growth Rate (%)": 4.0,
     "Decade": "1960s"
   },
   {
@@ -48083,7 +48083,7 @@
     "Year": 1999,
     "Population": 56100,
     "Population Growth": 0,
-    "Growth Rate (%)": 0,
+    "Growth Rate (%)": 0.0,
     "Decade": "1990s"
   },
   {
@@ -48262,8 +48262,8 @@
     "ISO3": "GRD",
     "Year": 1960,
     "Population": 89932,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -48793,8 +48793,8 @@
     "ISO3": "GUM",
     "Year": 1960,
     "Population": 66742,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -49324,8 +49324,8 @@
     "ISO3": "GTM",
     "Year": 1960,
     "Population": 4210747,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -49855,8 +49855,8 @@
     "ISO3": "GIN",
     "Year": 1960,
     "Population": 3494162,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -50386,8 +50386,8 @@
     "ISO3": "GNB",
     "Year": 1960,
     "Population": 616136,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -50810,7 +50810,7 @@
     "Year": 2007,
     "Population": 1411543,
     "Population Growth": 33962,
-    "Growth Rate (%)": 2.4653359766140794,
+    "Growth Rate (%)": 2.465335976614079,
     "Decade": "2000s"
   },
   {
@@ -50917,8 +50917,8 @@
     "ISO3": "GUY",
     "Year": 1960,
     "Population": 571819,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -50963,7 +50963,7 @@
     "Year": 1965,
     "Population": 651868,
     "Population Growth": 14023,
-    "Growth Rate (%)": 2.1984964999333694,
+    "Growth Rate (%)": 2.19849649993337,
     "Decade": "1960s"
   },
   {
@@ -51448,8 +51448,8 @@
     "ISO3": "HTI",
     "Year": 1960,
     "Population": 3866159,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -51979,8 +51979,8 @@
     "ISO3": "HPC",
     "Year": 1960,
     "Population": 161734357,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -52250,7 +52250,7 @@
     "Year": 1990,
     "Population": 354047260,
     "Population Growth": 10159755,
-    "Growth Rate (%)": 2.9543832946183954,
+    "Growth Rate (%)": 2.954383294618395,
     "Decade": "1990s"
   },
   {
@@ -52510,8 +52510,8 @@
     "ISO3": "HIC",
     "Year": 1960,
     "Population": 760193906,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -53041,8 +53041,8 @@
     "ISO3": "HND",
     "Year": 1960,
     "Population": 2038632,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -53572,8 +53572,8 @@
     "ISO3": "HKG",
     "Year": 1960,
     "Population": 3075605,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -54103,8 +54103,8 @@
     "ISO3": "HUN",
     "Year": 1960,
     "Population": 9983967,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -54634,8 +54634,8 @@
     "ISO3": "IBD",
     "Year": 1960,
     "Population": 1916725984,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -55165,8 +55165,8 @@
     "ISO3": "IBT",
     "Year": 1960,
     "Population": 2299827560,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -55193,7 +55193,7 @@
     "Year": 1963,
     "Population": 2428491489,
     "Population Growth": 55501129,
-    "Growth Rate (%)": 2.3388687091000238,
+    "Growth Rate (%)": 2.338868709100024,
     "Decade": "1960s"
   },
   {
@@ -55696,8 +55696,8 @@
     "ISO3": "IDB",
     "Year": 1960,
     "Population": 123891139,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -56227,8 +56227,8 @@
     "ISO3": "IDX",
     "Year": 1960,
     "Population": 259210437,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -56309,7 +56309,7 @@
     "Year": 1969,
     "Population": 325676214,
     "Population Growth": 8330652,
-    "Growth Rate (%)": 2.6251043019155254,
+    "Growth Rate (%)": 2.625104301915526,
     "Decade": "1960s"
   },
   {
@@ -56669,7 +56669,7 @@
     "Year": 2009,
     "Population": 889124646,
     "Population Growth": 20017859,
-    "Growth Rate (%)": 2.3032680562877714,
+    "Growth Rate (%)": 2.303268056287771,
     "Decade": "2000s"
   },
   {
@@ -56723,7 +56723,7 @@
     "Year": 2015,
     "Population": 1014355249,
     "Population Growth": 21992407,
-    "Growth Rate (%)": 2.2161659092027954,
+    "Growth Rate (%)": 2.216165909202795,
     "Decade": "2010s"
   },
   {
@@ -56758,8 +56758,8 @@
     "ISO3": "IDA",
     "Year": 1960,
     "Population": 383101576,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -57289,8 +57289,8 @@
     "ISO3": "ISL",
     "Year": 1960,
     "Population": 175574,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -57820,8 +57820,8 @@
     "ISO3": "IND",
     "Year": 1960,
     "Population": 450547679,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -57848,7 +57848,7 @@
     "Year": 1963,
     "Population": 478825608,
     "Population Growth": 9748418,
-    "Growth Rate (%)": 2.0782119036741054,
+    "Growth Rate (%)": 2.078211903674106,
     "Decade": "1960s"
   },
   {
@@ -57956,7 +57956,7 @@
     "Year": 1975,
     "Population": 623102897,
     "Population Growth": 14300297,
-    "Growth Rate (%)": 2.3489218015823194,
+    "Growth Rate (%)": 2.348921801582319,
     "Decade": "1970s"
   },
   {
@@ -58351,8 +58351,8 @@
     "ISO3": "IDN",
     "Year": 1960,
     "Population": 87751068,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -58882,8 +58882,8 @@
     "ISO3": "IRN",
     "Year": 1960,
     "Population": 21906914,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -59413,8 +59413,8 @@
     "ISO3": "IRQ",
     "Year": 1960,
     "Population": 7289760,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -59944,8 +59944,8 @@
     "ISO3": "IRL",
     "Year": 1960,
     "Population": 2828600,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -60475,8 +60475,8 @@
     "ISO3": "IMN",
     "Year": 1960,
     "Population": 48442,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -61006,8 +61006,8 @@
     "ISO3": "ISR",
     "Year": 1960,
     "Population": 2114020,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -61322,7 +61322,7 @@
     "Year": 1995,
     "Population": 5545000,
     "Population Growth": 146000,
-    "Growth Rate (%)": 2.7042044823115394,
+    "Growth Rate (%)": 2.704204482311539,
     "Decade": "1990s"
   },
   {
@@ -61537,8 +61537,8 @@
     "ISO3": "ITA",
     "Year": 1960,
     "Population": 50199700,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -62068,8 +62068,8 @@
     "ISO3": "JAM",
     "Year": 1960,
     "Population": 1628520,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -62599,8 +62599,8 @@
     "ISO3": "JPN",
     "Year": 1960,
     "Population": 92500572,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -63130,8 +63130,8 @@
     "ISO3": "JOR",
     "Year": 1960,
     "Population": 933102,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -63661,8 +63661,8 @@
     "ISO3": "KAZ",
     "Year": 1960,
     "Population": 9934563,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -64192,8 +64192,8 @@
     "ISO3": "KEN",
     "Year": 1960,
     "Population": 8120080,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -64220,7 +64220,7 @@
     "Year": 1963,
     "Population": 8928511,
     "Population Growth": 281500,
-    "Growth Rate (%)": 3.2554601815586914,
+    "Growth Rate (%)": 3.255460181558691,
     "Decade": "1960s"
   },
   {
@@ -64535,7 +64535,7 @@
     "Year": 1998,
     "Population": 30250488,
     "Population Growth": 834829,
-    "Growth Rate (%)": 2.8380428261015678,
+    "Growth Rate (%)": 2.838042826101568,
     "Decade": "1990s"
   },
   {
@@ -64553,7 +64553,7 @@
     "Year": 2000,
     "Population": 31964557,
     "Population Growth": 865800,
-    "Growth Rate (%)": 2.7840341014272694,
+    "Growth Rate (%)": 2.78403410142727,
     "Decade": "2000s"
   },
   {
@@ -64723,8 +64723,8 @@
     "ISO3": "KIR",
     "Year": 1960,
     "Population": 41202,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -65254,8 +65254,8 @@
     "ISO3": "PRK",
     "Year": 1960,
     "Population": 11424176,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -65309,7 +65309,7 @@
     "Year": 1966,
     "Population": 12864954,
     "Population Growth": 317429,
-    "Growth Rate (%)": 2.5298136485083718,
+    "Growth Rate (%)": 2.529813648508372,
     "Decade": "1960s"
   },
   {
@@ -65785,8 +65785,8 @@
     "ISO3": "KOR",
     "Year": 1960,
     "Population": 25012374,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -66316,8 +66316,8 @@
     "ISO3": "XKX",
     "Year": 1960,
     "Population": 947000,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -66847,8 +66847,8 @@
     "ISO3": "KWT",
     "Year": 1960,
     "Population": 269029,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -67351,8 +67351,8 @@
     "ISO3": "KGZ",
     "Year": 1960,
     "Population": 2172300,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -67882,8 +67882,8 @@
     "ISO3": "LAO",
     "Year": 1960,
     "Population": 2120898,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -68413,8 +68413,8 @@
     "ISO3": "LTE",
     "Year": 1960,
     "Population": 1097403781,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -68944,8 +68944,8 @@
     "ISO3": "LCN",
     "Year": 1960,
     "Population": 219907801,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -69017,7 +69017,7 @@
     "Year": 1968,
     "Population": 272128513,
     "Population Growth": 6832861,
-    "Growth Rate (%)": 2.5755646383529878,
+    "Growth Rate (%)": 2.575564638352988,
     "Decade": "1960s"
   },
   {
@@ -69475,8 +69475,8 @@
     "ISO3": "LAC",
     "Year": 1960,
     "Population": 204214185,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -70006,8 +70006,8 @@
     "ISO3": "TLA",
     "Year": 1960,
     "Population": 209830870,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -70537,8 +70537,8 @@
     "ISO3": "LVA",
     "Year": 1960,
     "Population": 2120979,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -71068,8 +71068,8 @@
     "ISO3": "LDC",
     "Year": 1960,
     "Population": 240518433,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -71599,8 +71599,8 @@
     "ISO3": "LBN",
     "Year": 1960,
     "Population": 1804941,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -71645,7 +71645,7 @@
     "Year": 1965,
     "Population": 2092375,
     "Population Growth": 51146,
-    "Growth Rate (%)": 2.5056473330527838,
+    "Growth Rate (%)": 2.505647333052784,
     "Decade": "1960s"
   },
   {
@@ -71690,7 +71690,7 @@
     "Year": 1970,
     "Population": 2297434,
     "Population Growth": 46987,
-    "Growth Rate (%)": 2.0878963157097234,
+    "Growth Rate (%)": 2.087896315709723,
     "Decade": "1970s"
   },
   {
@@ -72130,8 +72130,8 @@
     "ISO3": "LSO",
     "Year": 1960,
     "Population": 837270,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -72661,8 +72661,8 @@
     "ISO3": "LBR",
     "Year": 1960,
     "Population": 1118657,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -72698,7 +72698,7 @@
     "Year": 1964,
     "Population": 1217901,
     "Population Growth": 26099,
-    "Growth Rate (%)": 2.1898771775848678,
+    "Growth Rate (%)": 2.189877177584868,
     "Decade": "1960s"
   },
   {
@@ -73192,8 +73192,8 @@
     "ISO3": "LBY",
     "Year": 1960,
     "Population": 1448417,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -73723,8 +73723,8 @@
     "ISO3": "LIE",
     "Year": 1960,
     "Population": 16493,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -74254,8 +74254,8 @@
     "ISO3": "LTU",
     "Year": 1960,
     "Population": 2778550,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -74785,8 +74785,8 @@
     "ISO3": "LMY",
     "Year": 1960,
     "Population": 2271826072,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -74930,7 +74930,7 @@
     "Year": 1976,
     "Population": 3232891073,
     "Population Growth": 65407662,
-    "Growth Rate (%)": 2.0649725195987774,
+    "Growth Rate (%)": 2.064972519598778,
     "Decade": "1970s"
   },
   {
@@ -75316,8 +75316,8 @@
     "ISO3": "LIC",
     "Year": 1960,
     "Population": 158779911,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -75335,7 +75335,7 @@
     "Year": 1962,
     "Population": 165830670,
     "Population Growth": 3570805,
-    "Growth Rate (%)": 2.2006705108499878,
+    "Growth Rate (%)": 2.200670510849988,
     "Decade": "1960s"
   },
   {
@@ -75847,8 +75847,8 @@
     "ISO3": "LMC",
     "Year": 1960,
     "Population": 928490499,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -75965,7 +75965,7 @@
     "Year": 1973,
     "Population": 1255126850,
     "Population Growth": 29081618,
-    "Growth Rate (%)": 2.3719857343729718,
+    "Growth Rate (%)": 2.371985734372972,
     "Decade": "1970s"
   },
   {
@@ -76378,8 +76378,8 @@
     "ISO3": "LUX",
     "Year": 1960,
     "Population": 313970,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -76909,8 +76909,8 @@
     "ISO3": "MAC",
     "Year": 1960,
     "Population": 167791,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -77396,7 +77396,7 @@
     "Year": 2014,
     "Population": 590208,
     "Population Growth": 12836,
-    "Growth Rate (%)": 2.2231767387403614,
+    "Growth Rate (%)": 2.223176738740362,
     "Decade": "2010s"
   },
   {
@@ -77440,8 +77440,8 @@
     "ISO3": "MDG",
     "Year": 1960,
     "Population": 5099373,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -77971,8 +77971,8 @@
     "ISO3": "MWI",
     "Year": 1960,
     "Population": 3659984,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -78314,7 +78314,7 @@
     "Year": 1998,
     "Population": 10552338,
     "Population Growth": 287432,
-    "Growth Rate (%)": 2.8001425439258774,
+    "Growth Rate (%)": 2.800142543925878,
     "Decade": "1990s"
   },
   {
@@ -78502,8 +78502,8 @@
     "ISO3": "MYS",
     "Year": 1960,
     "Population": 8156347,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -78629,7 +78629,7 @@
     "Year": 1974,
     "Population": 11871104,
     "Population Growth": 278466,
-    "Growth Rate (%)": 2.4020934665604154,
+    "Growth Rate (%)": 2.402093466560415,
     "Decade": "1970s"
   },
   {
@@ -78764,7 +78764,7 @@
     "Year": 1989,
     "Population": 17528961,
     "Population Growth": 506496,
-    "Growth Rate (%)": 2.9754562573634318,
+    "Growth Rate (%)": 2.975456257363432,
     "Decade": "1980s"
   },
   {
@@ -79033,8 +79033,8 @@
     "ISO3": "MDV",
     "Year": 1960,
     "Population": 89863,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -79277,7 +79277,7 @@
     "Year": 1987,
     "Population": 203028,
     "Population Growth": 6764,
-    "Growth Rate (%)": 3.4463783475318954,
+    "Growth Rate (%)": 3.446378347531895,
     "Decade": "1980s"
   },
   {
@@ -79564,8 +79564,8 @@
     "ISO3": "MLI",
     "Year": 1960,
     "Population": 5263733,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -80095,8 +80095,8 @@
     "ISO3": "MLT",
     "Year": 1960,
     "Population": 326550,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -80294,7 +80294,7 @@
     "Year": 1982,
     "Population": 325898,
     "Population Growth": 6916,
-    "Growth Rate (%)": 2.1681474189766194,
+    "Growth Rate (%)": 2.168147418976619,
     "Decade": "1980s"
   },
   {
@@ -80626,8 +80626,8 @@
     "ISO3": "MHL",
     "Year": 1960,
     "Population": 14662,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -81157,8 +81157,8 @@
     "ISO3": "MRT",
     "Year": 1960,
     "Population": 850384,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -81500,7 +81500,7 @@
     "Year": 1998,
     "Population": 2496216,
     "Population Growth": 62653,
-    "Growth Rate (%)": 2.5745378278680278,
+    "Growth Rate (%)": 2.574537827868028,
     "Decade": "1990s"
   },
   {
@@ -81635,7 +81635,7 @@
     "Year": 2013,
     "Population": 3817494,
     "Population Growth": 110940,
-    "Growth Rate (%)": 2.9930765881193158,
+    "Growth Rate (%)": 2.993076588119316,
     "Decade": "2010s"
   },
   {
@@ -81688,8 +81688,8 @@
     "ISO3": "MUS",
     "Year": 1960,
     "Population": 659351,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -82219,8 +82219,8 @@
     "ISO3": "MEX",
     "Year": 1960,
     "Population": 37771859,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -82750,8 +82750,8 @@
     "ISO3": "FSM",
     "Year": 1960,
     "Population": 44514,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -83281,8 +83281,8 @@
     "ISO3": "MEA",
     "Year": 1960,
     "Population": 105203269,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -83812,8 +83812,8 @@
     "ISO3": "TMN",
     "Year": 1960,
     "Population": 97553162,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -83975,7 +83975,7 @@
     "Year": 1978,
     "Population": 157192233,
     "Population Growth": 4311024,
-    "Growth Rate (%)": 2.8198521114521014,
+    "Growth Rate (%)": 2.819852111452102,
     "Decade": "1970s"
   },
   {
@@ -84343,8 +84343,8 @@
     "ISO3": "MNA",
     "Year": 1960,
     "Population": 97553162,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -84506,7 +84506,7 @@
     "Year": 1978,
     "Population": 157192233,
     "Population Growth": 4311024,
-    "Growth Rate (%)": 2.8198521114521014,
+    "Growth Rate (%)": 2.819852111452102,
     "Decade": "1970s"
   },
   {
@@ -84874,8 +84874,8 @@
     "ISO3": "MIC",
     "Year": 1960,
     "Population": 2113046161,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -84956,7 +84956,7 @@
     "Year": 1969,
     "Population": 2567556274,
     "Population Growth": 60507818,
-    "Growth Rate (%)": 2.4135081176907254,
+    "Growth Rate (%)": 2.413508117690726,
     "Decade": "1960s"
   },
   {
@@ -85405,8 +85405,8 @@
     "ISO3": "MDA",
     "Year": 1960,
     "Population": 2043664,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -85936,8 +85936,8 @@
     "ISO3": "MCO",
     "Year": 1960,
     "Population": 22452,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -86467,8 +86467,8 @@
     "ISO3": "MNG",
     "Year": 1960,
     "Population": 955505,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -86486,7 +86486,7 @@
     "Year": 1962,
     "Population": 1011324,
     "Population Growth": 29146,
-    "Growth Rate (%)": 2.9674865452087094,
+    "Growth Rate (%)": 2.96748654520871,
     "Decade": "1960s"
   },
   {
@@ -86549,7 +86549,7 @@
     "Year": 1969,
     "Population": 1242214,
     "Population Growth": 35110,
-    "Growth Rate (%)": 2.9086143364614814,
+    "Growth Rate (%)": 2.908614336461482,
     "Decade": "1960s"
   },
   {
@@ -86998,8 +86998,8 @@
     "ISO3": "MNE",
     "Year": 1960,
     "Population": 480579,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -87529,8 +87529,8 @@
     "ISO3": "MAR",
     "Year": 1960,
     "Population": 12328532,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -88060,8 +88060,8 @@
     "ISO3": "MOZ",
     "Year": 1960,
     "Population": 7184869,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -88079,7 +88079,7 @@
     "Year": 1962,
     "Population": 7507303,
     "Population Growth": 165192,
-    "Growth Rate (%)": 2.2499251237144198,
+    "Growth Rate (%)": 2.24992512371442,
     "Decade": "1960s"
   },
   {
@@ -88502,7 +88502,7 @@
     "Year": 2009,
     "Population": 22894710,
     "Population Growth": 618114,
-    "Growth Rate (%)": 2.7747237504329654,
+    "Growth Rate (%)": 2.774723750432966,
     "Decade": "2000s"
   },
   {
@@ -88591,8 +88591,8 @@
     "ISO3": "MMR",
     "Year": 1960,
     "Population": 21736942,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -89122,8 +89122,8 @@
     "ISO3": "NAM",
     "Year": 1960,
     "Population": 634142,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -89653,8 +89653,8 @@
     "ISO3": "NRU",
     "Year": 1960,
     "Population": 4375,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -89960,7 +89960,7 @@
     "Year": 1994,
     "Population": 10498,
     "Population Growth": 211,
-    "Growth Rate (%)": 2.0511324973267238,
+    "Growth Rate (%)": 2.051132497326724,
     "Decade": "1990s"
   },
   {
@@ -90184,8 +90184,8 @@
     "ISO3": "NPL",
     "Year": 1960,
     "Population": 10105050,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -90715,8 +90715,8 @@
     "ISO3": "NLD",
     "Year": 1960,
     "Population": 11486631,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -91246,8 +91246,8 @@
     "ISO3": "NCL",
     "Year": 1960,
     "Population": 79000,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -91777,8 +91777,8 @@
     "ISO3": "NZL",
     "Year": 1960,
     "Population": 2371800,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -92308,8 +92308,8 @@
     "ISO3": "NIC",
     "Year": 1960,
     "Population": 1773129,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -92534,7 +92534,7 @@
     "Year": 1985,
     "Population": 3734341,
     "Population Growth": 91365,
-    "Growth Rate (%)": 2.5079769946329598,
+    "Growth Rate (%)": 2.50797699463296,
     "Decade": "1980s"
   },
   {
@@ -92839,8 +92839,8 @@
     "ISO3": "NER",
     "Year": 1960,
     "Population": 3388764,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -93370,8 +93370,8 @@
     "ISO3": "NGA",
     "Year": 1960,
     "Population": 45138458,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -93901,8 +93901,8 @@
     "ISO3": "NAC",
     "Year": 1960,
     "Population": 198624409,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -94432,8 +94432,8 @@
     "ISO3": "MKD",
     "Year": 1960,
     "Population": 1488667,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -94963,8 +94963,8 @@
     "ISO3": "MNP",
     "Year": 1960,
     "Population": 9979,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -95494,8 +95494,8 @@
     "ISO3": "NOR",
     "Year": 1960,
     "Population": 3581239,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -96025,8 +96025,8 @@
     "ISO3": "OED",
     "Year": 1960,
     "Population": 791309222,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -96556,8 +96556,8 @@
     "ISO3": "OMN",
     "Year": 1960,
     "Population": 551740,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -97087,8 +97087,8 @@
     "ISO3": "OSS",
     "Year": 1960,
     "Population": 9151857,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -97304,7 +97304,7 @@
     "Year": 1984,
     "Population": 14962381,
     "Population Growth": 362178,
-    "Growth Rate (%)": 2.4806367418316038,
+    "Growth Rate (%)": 2.480636741831604,
     "Decade": "1980s"
   },
   {
@@ -97618,8 +97618,8 @@
     "ISO3": "PSS",
     "Year": 1960,
     "Population": 865072,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -98149,8 +98149,8 @@
     "ISO3": "PAK",
     "Year": 1960,
     "Population": 44988690,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -98654,7 +98654,7 @@
     "Year": 2016,
     "Population": 203627284,
     "Population Growth": 4200320,
-    "Growth Rate (%)": 2.1061946267205878,
+    "Growth Rate (%)": 2.106194626720588,
     "Decade": "2010s"
   },
   {
@@ -98680,8 +98680,8 @@
     "ISO3": "PLW",
     "Year": 1960,
     "Population": 9771,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -99211,8 +99211,8 @@
     "ISO3": "PAN",
     "Year": 1960,
     "Population": 1132997,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -99410,7 +99410,7 @@
     "Year": 1982,
     "Population": 2073757,
     "Population Growth": 47786,
-    "Growth Rate (%)": 2.3586714716054678,
+    "Growth Rate (%)": 2.358671471605468,
     "Decade": "1980s"
   },
   {
@@ -99482,7 +99482,7 @@
     "Year": 1990,
     "Population": 2470947,
     "Population Growth": 51521,
-    "Growth Rate (%)": 2.1294720317959714,
+    "Growth Rate (%)": 2.129472031795971,
     "Decade": "1990s"
   },
   {
@@ -99742,8 +99742,8 @@
     "ISO3": "PNG",
     "Year": 1960,
     "Population": 2255859,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -99986,7 +99986,7 @@
     "Year": 1987,
     "Population": 4292563,
     "Population Growth": 106064,
-    "Growth Rate (%)": 2.5334772562945798,
+    "Growth Rate (%)": 2.53347725629458,
     "Decade": "1980s"
   },
   {
@@ -100273,8 +100273,8 @@
     "ISO3": "PRY",
     "Year": 1960,
     "Population": 1903982,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -100346,7 +100346,7 @@
     "Year": 1968,
     "Population": 2351925,
     "Population Growth": 61127,
-    "Growth Rate (%)": 2.6683714583302414,
+    "Growth Rate (%)": 2.668371458330242,
     "Decade": "1960s"
   },
   {
@@ -100804,8 +100804,8 @@
     "ISO3": "PER",
     "Year": 1960,
     "Population": 10155015,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -101003,7 +101003,7 @@
     "Year": 1982,
     "Population": 18426415,
     "Population Growth": 441022,
-    "Growth Rate (%)": 2.4521121112004614,
+    "Growth Rate (%)": 2.452112111200462,
     "Decade": "1980s"
   },
   {
@@ -101335,8 +101335,8 @@
     "ISO3": "PHL",
     "Year": 1960,
     "Population": 26269734,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -101866,8 +101866,8 @@
     "ISO3": "POL",
     "Year": 1960,
     "Population": 29637450,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -102397,8 +102397,8 @@
     "ISO3": "PRT",
     "Year": 1960,
     "Population": 8857716,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -102928,8 +102928,8 @@
     "ISO3": "PST",
     "Year": 1960,
     "Population": 754514355,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -103459,8 +103459,8 @@
     "ISO3": "PRE",
     "Year": 1960,
     "Population": 187617091,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -103793,7 +103793,7 @@
     "Year": 1997,
     "Population": 507968946,
     "Population Growth": 13451270,
-    "Growth Rate (%)": 2.7200787055385254,
+    "Growth Rate (%)": 2.720078705538526,
     "Decade": "1990s"
   },
   {
@@ -103990,8 +103990,8 @@
     "ISO3": "PRI",
     "Year": 1960,
     "Population": 2358000,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -104521,8 +104521,8 @@
     "ISO3": "QAT",
     "Year": 1960,
     "Population": 47384,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -104801,7 +104801,7 @@
     "Year": 1991,
     "Population": 487353,
     "Population Growth": 11075,
-    "Growth Rate (%)": 2.3253226057050718,
+    "Growth Rate (%)": 2.325322605705072,
     "Decade": "1990s"
   },
   {
@@ -105052,8 +105052,8 @@
     "ISO3": "ROU",
     "Year": 1960,
     "Population": 18406905,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -105583,8 +105583,8 @@
     "ISO3": "RUS",
     "Year": 1960,
     "Population": 119897000,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -106114,8 +106114,8 @@
     "ISO3": "RWA",
     "Year": 1960,
     "Population": 2935582,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -106645,8 +106645,8 @@
     "ISO3": "WSM",
     "Year": 1960,
     "Population": 108629,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -106655,7 +106655,7 @@
     "Year": 1961,
     "Population": 112105,
     "Population Growth": 3476,
-    "Growth Rate (%)": 3.1998821677452614,
+    "Growth Rate (%)": 3.199882167745262,
     "Decade": "1960s"
   },
   {
@@ -107176,8 +107176,8 @@
     "ISO3": "SMR",
     "Year": 1960,
     "Population": 15432,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -107195,7 +107195,7 @@
     "Year": 1962,
     "Population": 16255,
     "Population Growth": 418,
-    "Growth Rate (%)": 2.6393887731262238,
+    "Growth Rate (%)": 2.639388773126224,
     "Decade": "1960s"
   },
   {
@@ -107707,8 +107707,8 @@
     "ISO3": "STP",
     "Year": 1960,
     "Population": 64302,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -108238,8 +108238,8 @@
     "ISO3": "SAU",
     "Year": 1960,
     "Population": 4086539,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -108769,8 +108769,8 @@
     "ISO3": "SEN",
     "Year": 1960,
     "Population": 3206749,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -109058,7 +109058,7 @@
     "Year": 1992,
     "Population": 7990096,
     "Population Growth": 234600,
-    "Growth Rate (%)": 3.0249515956168374,
+    "Growth Rate (%)": 3.024951595616838,
     "Decade": "1990s"
   },
   {
@@ -109300,8 +109300,8 @@
     "ISO3": "SRB",
     "Year": 1990,
     "Population": 7586000,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1990s"
   },
   {
@@ -109561,8 +109561,8 @@
     "ISO3": "SYC",
     "Year": 1960,
     "Population": 41700,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -109625,7 +109625,7 @@
     "Year": 1967,
     "Population": 49911,
     "Population Growth": 1212,
-    "Growth Rate (%)": 2.4887574693525534,
+    "Growth Rate (%)": 2.488757469352554,
     "Decade": "1960s"
   },
   {
@@ -110092,8 +110092,8 @@
     "ISO3": "SLE",
     "Year": 1960,
     "Population": 2317636,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -110623,8 +110623,8 @@
     "ISO3": "SGP",
     "Year": 1960,
     "Population": 1646400,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -110966,7 +110966,7 @@
     "Year": 1998,
     "Population": 3927213,
     "Population Growth": 131175,
-    "Growth Rate (%)": 3.4555765774736718,
+    "Growth Rate (%)": 3.455576577473672,
     "Decade": "1990s"
   },
   {
@@ -111083,7 +111083,7 @@
     "Year": 2011,
     "Population": 5183688,
     "Population Growth": 106956,
-    "Growth Rate (%)": 2.1067883827627694,
+    "Growth Rate (%)": 2.10678838276277,
     "Decade": "2010s"
   },
   {
@@ -111154,8 +111154,8 @@
     "ISO3": "SXM",
     "Year": 1998,
     "Population": 31240,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1990s"
   },
   {
@@ -111343,8 +111343,8 @@
     "ISO3": "SVK",
     "Year": 1960,
     "Population": 4068095,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -111874,8 +111874,8 @@
     "ISO3": "SVN",
     "Year": 1960,
     "Population": 1584720,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -112405,8 +112405,8 @@
     "ISO3": "SST",
     "Year": 1960,
     "Population": 14211639,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -112936,8 +112936,8 @@
     "ISO3": "SLB",
     "Year": 1960,
     "Population": 117849,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -112991,7 +112991,7 @@
     "Year": 1966,
     "Population": 140991,
     "Population Growth": 4175,
-    "Growth Rate (%)": 3.0515436791018598,
+    "Growth Rate (%)": 3.05154367910186,
     "Decade": "1960s"
   },
   {
@@ -113467,8 +113467,8 @@
     "ISO3": "SOM",
     "Year": 1960,
     "Population": 2755972,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -113998,8 +113998,8 @@
     "ISO3": "ZAF",
     "Year": 1960,
     "Population": 17099840,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -114152,7 +114152,7 @@
     "Year": 1977,
     "Population": 26480913,
     "Population Growth": 644025,
-    "Growth Rate (%)": 2.4926570103953694,
+    "Growth Rate (%)": 2.49265701039537,
     "Decade": "1970s"
   },
   {
@@ -114529,8 +114529,8 @@
     "ISO3": "SAS",
     "Year": 1960,
     "Population": 572839523,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -115060,8 +115060,8 @@
     "ISO3": "TSA",
     "Year": 1960,
     "Population": 572839523,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -115591,8 +115591,8 @@
     "ISO3": "SSD",
     "Year": 1960,
     "Population": 2842724,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -116122,8 +116122,8 @@
     "ISO3": "ESP",
     "Year": 1960,
     "Population": 30455000,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -116653,8 +116653,8 @@
     "ISO3": "LKA",
     "Year": 1960,
     "Population": 9874476,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -117184,8 +117184,8 @@
     "ISO3": "KNA",
     "Year": 1960,
     "Population": 51195,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -117715,8 +117715,8 @@
     "ISO3": "LCA",
     "Year": 1960,
     "Population": 89697,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -118246,8 +118246,8 @@
     "ISO3": "MAF",
     "Year": 1960,
     "Population": 3893,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -118777,8 +118777,8 @@
     "ISO3": "VCT",
     "Year": 1960,
     "Population": 80977,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -119308,8 +119308,8 @@
     "ISO3": "SSF",
     "Year": 1960,
     "Population": 227233223,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -119372,7 +119372,7 @@
     "Year": 1967,
     "Population": 269072224,
     "Population Growth": 6617802,
-    "Growth Rate (%)": 2.5215052387267454,
+    "Growth Rate (%)": 2.521505238726746,
     "Decade": "1960s"
   },
   {
@@ -119839,8 +119839,8 @@
     "ISO3": "TSS",
     "Year": 1960,
     "Population": 227233223,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -119903,7 +119903,7 @@
     "Year": 1967,
     "Population": 269072224,
     "Population Growth": 6617802,
-    "Growth Rate (%)": 2.5215052387267454,
+    "Growth Rate (%)": 2.521505238726746,
     "Decade": "1960s"
   },
   {
@@ -120370,8 +120370,8 @@
     "ISO3": "SSA",
     "Year": 1960,
     "Population": 227191523,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -120901,8 +120901,8 @@
     "ISO3": "SDN",
     "Year": 1960,
     "Population": 7544491,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -121432,8 +121432,8 @@
     "ISO3": "SUR",
     "Year": 1960,
     "Population": 287871,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -121460,7 +121460,7 @@
     "Year": 1963,
     "Population": 311947,
     "Population Growth": 8052,
-    "Growth Rate (%)": 2.6495993682028334,
+    "Growth Rate (%)": 2.649599368202834,
     "Decade": "1960s"
   },
   {
@@ -121963,8 +121963,8 @@
     "ISO3": "SWE",
     "Year": 1960,
     "Population": 7484656,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -122494,8 +122494,8 @@
     "ISO3": "CHE",
     "Year": 1960,
     "Population": 5327827,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -123025,8 +123025,8 @@
     "ISO3": "SYR",
     "Year": 1960,
     "Population": 4573512,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -123556,8 +123556,8 @@
     "ISO3": "TJK",
     "Year": 1960,
     "Population": 2087049,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -123764,7 +123764,7 @@
     "Year": 1983,
     "Population": 4265274,
     "Population Growth": 124979,
-    "Growth Rate (%)": 3.0186013315476314,
+    "Growth Rate (%)": 3.018601331547631,
     "Decade": "1980s"
   },
   {
@@ -124087,8 +124087,8 @@
     "ISO3": "TZA",
     "Year": 1960,
     "Population": 10052152,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -124277,7 +124277,7 @@
     "Year": 1981,
     "Population": 19120680,
     "Population Growth": 582421,
-    "Growth Rate (%)": 3.1417243658101874,
+    "Growth Rate (%)": 3.141724365810187,
     "Decade": "1980s"
   },
   {
@@ -124618,8 +124618,8 @@
     "ISO3": "THA",
     "Year": 1960,
     "Population": 27397207,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -124772,7 +124772,7 @@
     "Year": 1977,
     "Population": 44405904,
     "Population Growth": 1028633,
-    "Growth Rate (%)": 2.3713640261048234,
+    "Growth Rate (%)": 2.371364026104823,
     "Decade": "1970s"
   },
   {
@@ -125149,8 +125149,8 @@
     "ISO3": "TLS",
     "Year": 1960,
     "Population": 474532,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -125411,7 +125411,7 @@
     "Year": 1989,
     "Population": 718741,
     "Population Growth": 16932,
-    "Growth Rate (%)": 2.4126222376743534,
+    "Growth Rate (%)": 2.412622237674354,
     "Decade": "1980s"
   },
   {
@@ -125680,8 +125680,8 @@
     "ISO3": "TGO",
     "Year": 1960,
     "Population": 1580513,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -126211,8 +126211,8 @@
     "ISO3": "TON",
     "Year": 1960,
     "Population": 61577,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -126742,8 +126742,8 @@
     "ISO3": "TTO",
     "Year": 1960,
     "Population": 847979,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -127273,8 +127273,8 @@
     "ISO3": "TUN",
     "Year": 1960,
     "Population": 4178236,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -127804,8 +127804,8 @@
     "ISO3": "TUR",
     "Year": 1960,
     "Population": 27472345,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -128335,8 +128335,8 @@
     "ISO3": "TKM",
     "Year": 1960,
     "Population": 1603258,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -128866,8 +128866,8 @@
     "ISO3": "TCA",
     "Year": 1960,
     "Population": 5824,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -129397,8 +129397,8 @@
     "ISO3": "TUV",
     "Year": 1960,
     "Population": 5323,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -129731,7 +129731,7 @@
     "Year": 1997,
     "Population": 9323,
     "Population Growth": 0,
-    "Growth Rate (%)": 0,
+    "Growth Rate (%)": 0.0,
     "Decade": "1990s"
   },
   {
@@ -129928,8 +129928,8 @@
     "ISO3": "UGA",
     "Year": 1960,
     "Population": 6767095,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -130289,7 +130289,7 @@
     "Year": 2000,
     "Population": 23650172,
     "Population Growth": 697762,
-    "Growth Rate (%)": 3.0400380613626194,
+    "Growth Rate (%)": 3.040038061362619,
     "Decade": "2000s"
   },
   {
@@ -130406,7 +130406,7 @@
     "Year": 2013,
     "Population": 35695246,
     "Population Growth": 1136078,
-    "Growth Rate (%)": 3.2873418711931954,
+    "Growth Rate (%)": 3.287341871193195,
     "Decade": "2010s"
   },
   {
@@ -130459,8 +130459,8 @@
     "ISO3": "UKR",
     "Year": 1960,
     "Population": 42664652,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -130990,8 +130990,8 @@
     "ISO3": "ARE",
     "Year": 1960,
     "Population": 92418,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -131521,8 +131521,8 @@
     "ISO3": "GBR",
     "Year": 1960,
     "Population": 52400000,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -132052,8 +132052,8 @@
     "ISO3": "USA",
     "Year": 1960,
     "Population": 180671000,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -132583,8 +132583,8 @@
     "ISO3": "UMC",
     "Year": 1960,
     "Population": 1184555662,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -132665,7 +132665,7 @@
     "Year": 1969,
     "Population": 1424467769,
     "Population Growth": 34207861,
-    "Growth Rate (%)": 2.4605371127482734,
+    "Growth Rate (%)": 2.460537112748274,
     "Decade": "1960s"
   },
   {
@@ -133114,8 +133114,8 @@
     "ISO3": "URY",
     "Year": 1960,
     "Population": 2538643,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -133645,8 +133645,8 @@
     "ISO3": "UZB",
     "Year": 1960,
     "Population": 8526300,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -133673,7 +133673,7 @@
     "Year": 1963,
     "Population": 9428906,
     "Population Growth": 315286,
-    "Growth Rate (%)": 3.4595034684351558,
+    "Growth Rate (%)": 3.459503468435156,
     "Decade": "1960s"
   },
   {
@@ -134176,8 +134176,8 @@
     "ISO3": "VUT",
     "Year": 1960,
     "Population": 63689,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -134707,8 +134707,8 @@
     "ISO3": "VEN",
     "Year": 1960,
     "Population": 8141841,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -135238,8 +135238,8 @@
     "ISO3": "VNM",
     "Year": 1960,
     "Population": 32670039,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -135769,8 +135769,8 @@
     "ISO3": "VIR",
     "Year": 1960,
     "Population": 32500,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -136040,7 +136040,7 @@
     "Year": 1990,
     "Population": 103963,
     "Population Growth": 2922,
-    "Growth Rate (%)": 2.8918953692065594,
+    "Growth Rate (%)": 2.891895369206559,
     "Decade": "1990s"
   },
   {
@@ -136300,8 +136300,8 @@
     "ISO3": "PSE",
     "Year": 1990,
     "Population": 1978248,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1990s"
   },
   {
@@ -136561,8 +136561,8 @@
     "ISO3": "WLD",
     "Year": 1960,
     "Population": 3032019978,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -137092,8 +137092,8 @@
     "ISO3": "YEM",
     "Year": 1960,
     "Population": 5315355,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -137623,8 +137623,8 @@
     "ISO3": "ZMB",
     "Year": 1960,
     "Population": 3070776,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {
@@ -138154,8 +138154,8 @@
     "ISO3": "ZWE",
     "Year": 1960,
     "Population": 3776681,
-    "Population Growth": "",
-    "Growth Rate (%)": "",
+    "Population Growth": null,
+    "Growth Rate (%)": null,
     "Decade": "1960s"
   },
   {

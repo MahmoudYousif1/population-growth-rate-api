@@ -3,29 +3,30 @@ use serde::{Deserialize, Serialize};
 #[derive(Serialize, Deserialize, Debug, Clone)]
 pub struct CountryRecord {
     #[serde(rename = "Country")]
-    pub country: String,
+    pub country: Option<String>,
 
     #[serde(rename = "ISO3")]
-    pub iso3: String,
+    pub iso3: Option<String>,
 
     #[serde(rename = "Year")]
-    pub year: u16,
+    pub year: Option<u16>,
 
     #[serde(rename = "Population")]
-    pub population: u64,
+    pub population: Option<u64>,
 
     #[serde(rename = "Population Growth")]
-    pub population_growth: u64,
+    pub population_growth: Option<i64>,
 
     #[serde(rename = "Growth Rate (%)")]
-    pub growth_rate: f64,
+    pub growth_rate: Option<f64>,
 
     #[serde(rename = "Decade")]
-    pub decade: String,
+    pub decade: Option<String>,
 }
 
-#[derive(Serialize, Deserialize, Debug, Clone)]
+#[derive(Deserialize, Debug, Clone)]
 pub struct ReadQuery {
+    #[serde(flatten)]
     pub query: QueryType,
 }
 
@@ -33,34 +34,31 @@ pub struct ReadQuery {
 #[serde(tag = "type", rename_all = "snake_case")]
 pub enum QueryType {
     Country {
+        #[serde(default)]
         name: Option<String>,
+
+        #[serde(default)]
         iso3: Option<String>,
     },
-
     TopGrowth {
         year: u16,
         #[serde(default)]
         limit: Option<usize>,
     },
-
     GlobalTrends {
         #[serde(default)]
         decade: Option<String>,
     },
-
     CompareCountries {
         countries: Vec<String>,
     },
-
     PopulationSummary {
         period: TimePeriod,
         metrics: Vec<Metrics>,
     },
-
     PeakGrowthYear {
         country: String,
     },
-
     DoublingTimeEstimate {
         country: String,
         #[serde(default)]
