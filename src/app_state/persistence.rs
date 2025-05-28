@@ -1,5 +1,4 @@
 use crate::app_state::model::AppState;
-use crate::utils::models::Operator;
 use actix_web::{dev::ServerHandle, web::Data};
 use std::{env, time::Duration};
 use tokio::{fs, task, time};
@@ -47,11 +46,10 @@ pub fn spawn_persistence_tasks(
 pub(crate) async fn save_to_disk(state: &AppState, file_path: &str) -> Result<(), std::io::Error> {
     let json = {
         let guard = state
-            .operators
+            .country_records
             .read()
             .map_err(|_| std::io::Error::new(std::io::ErrorKind::Other, "Lock poisoned"))?;
-        let operators_to_serialize: Vec<&Operator> = guard.iter().collect();
-        serde_json::to_string_pretty(&operators_to_serialize).unwrap_or_else(|e| {
+        serde_json::to_string_pretty(&*guard).unwrap_or_else(|e| {
             log::error!("Failed to serialize country list: {}", e);
             "[]".into()
         })
